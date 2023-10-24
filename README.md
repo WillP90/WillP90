@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Will Pearce</h1>
-<h3 align="center">Driven Full-Stack Developer from Sand Diego</h3>
+<h3 align="center">Driven Full-Stack Developer from San Diego</h3>
 
 - 🔭 I’m currently working on **A Skill Tree App for Life**
 
